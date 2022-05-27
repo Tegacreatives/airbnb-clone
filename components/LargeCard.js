@@ -8,8 +8,9 @@ function LargeCard({ img, title, description, buttonText}) {
             <Image 
                 src={img}
                 layout="fill"
-                  objectFit='cover'
-                  className='rounded-2xl'
+                objectFit='cover'
+                className='rounded-2xl'
+                alt='large-card'
             />
         </div>
         <div className='absolute top-32 left-12'>
