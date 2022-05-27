@@ -11,6 +11,7 @@ import { SearchIcon, GlobeAltIcon, MenuIcon, UsersIcon, UserCircleIcon } from '@
                   layout="fill"
                   objectFit="contain"
                   objectPosition="left"
+                  alt="header-image"
                />
           </div>
       <div className="flex items-center md:border-2 rounded-full
